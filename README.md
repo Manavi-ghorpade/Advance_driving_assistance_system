@@ -1,6 +1,6 @@
 # Advanced driver assistance system (ADAS)
 
-Lane Detection:
+## Lane Detection:
 
 • The road conditions may not be the same in every part of the region. Sometimes the road 
 may be freeway, town road, etc. Every road has different lane markings. 
@@ -33,7 +33,7 @@ of road has some false detections of the road lane.
 
 
 
-Pedestrian Detection:
+## Pedestrian Detection:
 
 • Pedestrian detection detects the pedestrians which are captured in the specific region of 
 interest.
@@ -52,7 +52,7 @@ area, the pedestrians are detected in it.
 
 
 
-Stop Sign detection:
+## Stop Sign detection:
 
 • Stop signs are detected and shown for every frame if there are any.
 
@@ -64,7 +64,7 @@ Stop Sign detection:
 
 
 
-Stop Light Detection:
+## Stop Light Detection:
 
 • Stop light is detected whenever there is red traffic light on the road. 
 
