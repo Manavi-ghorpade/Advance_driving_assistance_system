@@ -1,7 +1,4 @@
-# ADAS-Final-project-
-Advanced driver assistance system (ADAS)
-
-FUNCTIONAL REQUIREMENTS
+# Advanced driver assistance system (ADAS)
 
 Lane Detection:
 
@@ -34,6 +31,8 @@ random predictions of the hidden lane line.
 • A single ongoing lane will be detected on the multilane road. Crossings and intersections 
 of road has some false detections of the road lane.
 
+
+
 Pedestrian Detection:
 
 • Pedestrian detection detects the pedestrians which are captured in the specific region of 
@@ -51,6 +50,8 @@ not considered.
 • the pedestrians are not usually seen on the freeway, but as the vehicle enters the downtown 
 area, the pedestrians are detected in it.
 
+
+
 Stop Sign detection:
 
 • Stop signs are detected and shown for every frame if there are any.
@@ -60,6 +61,8 @@ Stop Sign detection:
 • Areas having unclear stop signs are difficult to detect.
 
 • The accuracy of stop sign detection depends on the clarity of video.
+
+
 
 Stop Light Detection:
 
