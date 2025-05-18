@@ -57,7 +57,7 @@ area, the pedestrians are detected in it.
 
 
 ## Stop Sign detection:
-![lane Screenshot](images/stop%20sign.png)
+![lane Screenshot](images/stop.jpeg)
 
 • Stop signs are detected and shown for every frame if there are any.
 
@@ -70,7 +70,7 @@ area, the pedestrians are detected in it.
 
 
 ## Stop Light Detection:
-![lane Screenshot](images/stop%20light.png)
+![lane Screenshot](images/stop_light.jpg)
 
 • Stop light is detected whenever there is red traffic light on the road. 
 
