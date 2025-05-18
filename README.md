@@ -2,6 +2,8 @@
 
 ## Lane Detection:
 
+![lane Screenshot](images/lane.png)
+
 • The road conditions may not be the same in every part of the region. Sometimes the road 
 may be freeway, town road, etc. Every road has different lane markings. 
 
@@ -35,6 +37,8 @@ of road has some false detections of the road lane.
 
 ## Pedestrian Detection:
 
+![lane Screenshot](images/pedestrian.gif)
+
 • Pedestrian detection detects the pedestrians which are captured in the specific region of 
 interest.
 
@@ -53,6 +57,7 @@ area, the pedestrians are detected in it.
 
 
 ## Stop Sign detection:
+![lane Screenshot](images/stop%20sign.png)
 
 • Stop signs are detected and shown for every frame if there are any.
 
@@ -65,6 +70,7 @@ area, the pedestrians are detected in it.
 
 
 ## Stop Light Detection:
+![lane Screenshot](images/stop%20light.png)
 
 • Stop light is detected whenever there is red traffic light on the road. 
 
